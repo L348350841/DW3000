@@ -8,4 +8,4 @@ UWB 人员定位
 
 - 最终在山西核工厂房间测试，并成功应用
 
-- 具体图片见https://github.com/L348350841/L348350841/blob/main/%E5%A5%96%E9%A1%B9%E8%AE%B0%E5%BD%95.pdf
+- 具体图片见https://github.com/L348350841/L348350841/blob/main/%E9%A1%B9%E7%9B%AE%E5%8F%8A%E5%A5%96%E9%A1%B9%E8%AE%B0%E5%BD%95.pdf
